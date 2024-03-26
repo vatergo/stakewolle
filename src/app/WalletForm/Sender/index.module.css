@@ -1,8 +1,0 @@
-@media (max-width: 768px) {
-  .wrapper {
-    align-items: end;
-  }
-  .leftSide {
-    flex-direction: column;
-  }
-}
